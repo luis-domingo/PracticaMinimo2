@@ -1,3 +1,4 @@
+package com.example.practicaminimo2.models;
 
 public class Contact {
 

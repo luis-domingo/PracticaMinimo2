@@ -1,4 +1,4 @@
-
+package com.example.practicaminimo2.models;
 
 import java.util.List;
 import com.google.gson.annotations.Expose;
